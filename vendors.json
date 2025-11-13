@@ -1,0 +1,410 @@
+[
+  {
+    "Supplier Name": "srinivasa traders",
+    "SM Vendor ID": "S10834561",
+    "ERP Vendor ID": "VDR2873156",
+    "ACM ID": "ACM_845061",
+    "Registration Status": "Invited",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Address - Line1": "kamshi nagar",
+    "Address - City": "Karimnagar",
+    "Address - Country Code": "IN",
+    "Address - Region Code": "01",
+    "Address - Postal Code": "564328",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc88972671",
+        "questionnaireTitle": "Internal Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS88972665",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc88972670",
+        "questionnaireTitle": "Supplier Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS88972665",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc88971103",
+        "questionnaireTitle": "Supplier Request Form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS88966998"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [
+        {
+          "name": "ZANID",
+          "content": "",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "businessPartnerGenericCustomField": [],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  },
+  {
+    "Supplier Name": "steam1automobile",
+    "SM Vendor ID": "S10717420",
+    "ERP Vendor ID": "VDR1124303",
+    "An Id": "AN11204848494-T",
+    "ACM ID": "ACM_693560",
+    "Registration Status": "PendingApproval",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc56131142",
+        "questionnaireTitle": "Internal Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS56131136",
+        "matrixInfo": {
+          "Status": "PendingApproval",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc56131141",
+        "questionnaireTitle": "Supplier Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS56131136",
+        "matrixInfo": {
+          "Status": "PendingApproval",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc56131143",
+        "questionnaireTitle": "Supplier Information",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS56131136",
+        "matrixInfo": {
+          "Status": "PendingApproval",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc56131127",
+        "questionnaireTitle": "Supplier Request Form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS56131124"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [],
+      "businessPartnerGenericCustomField": [],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  },
+  {
+    "Supplier Name": "Alps Traders",
+    "SM Vendor ID": "S10739550",
+    "ERP Vendor ID": "VDR1181761",
+    "ACM ID": "ACM_706831",
+    "Registration Status": "NotInvited",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Address - City": "Toronto",
+    "Address - Country Code": "CA",
+    "Address - Region Code": "ON",
+    "Address - Postal Code": "L3R4K9",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc56983274",
+        "questionnaireTitle": "Supplier Request Form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS56983269"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [
+        {
+          "name": "ZANID",
+          "content": "",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "businessPartnerGenericCustomField": [
+        {
+          "name": "Category",
+          "content": "9876544",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  },
+  {
+    "Supplier Name": "Fancode",
+    "SM Vendor ID": "S10822821",
+    "ERP Vendor ID": "VDR2665861",
+    "ACM ID": "ACM_831976",
+    "Registration Status": "Registered",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Address - Line1": "2",
+    "Address - City": "Akola",
+    "Address - Country Code": "IN",
+    "Address - Region Code": "13",
+    "Address - Postal Code": "555222",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc85428467",
+        "questionnaireTitle": "Internal Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS85428463",
+        "matrixInfo": {
+          "Status": "Registered",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc85428466",
+        "questionnaireTitle": "Supplier Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS85428463",
+        "matrixInfo": {
+          "Status": "Registered",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc85423880",
+        "questionnaireTitle": "Supplier request form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS85423877"
+      }
+    ],
+    "companyCodes": [
+      {
+        "companyCode": "1010",
+        "paymentMethodsCode": "T",
+        "cashDiscountTermsCode": "NT30",
+        "generalLedgerAccountReferenceID": "21100000"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [
+        {
+          "name": "ZANID",
+          "content": "",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "businessPartnerGenericCustomField": [],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  },
+  {
+    "Supplier Name": "arunkumar",
+    "SM Vendor ID": "S10836858",
+    "ERP Vendor ID": "VDR2879320",
+    "ACM ID": "ACM_847520",
+    "Registration Status": "Invited",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Address - Line1": "marthali",
+    "Address - City": "karimnagar",
+    "Address - Country Code": "IN",
+    "Address - Region Code": "01",
+    "Address - Postal Code": "506293",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc89035941",
+        "questionnaireTitle": "Supplier Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS89035936",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc89035942",
+        "questionnaireTitle": "Internal Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS89035936",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc89035918",
+        "questionnaireTitle": "Supplier Request Form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS89035913"
+      }
+    ],
+    "companyCodes": [
+      {
+        "companyCode": "1010",
+        "paymentMethodsCode": "T",
+        "cashDiscountTermsCode": "NT30",
+        "generalLedgerAccountReferenceID": "21100000"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [
+        {
+          "name": "ZANID",
+          "content": "",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        },
+        {
+          "name": "supplierType",
+          "content": "commodities",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "businessPartnerGenericCustomField": [],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  },
+  {
+    "Supplier Name": "Kapaasa Apparels LLP",
+    "SM Vendor ID": "S10739552",
+    "ERP Vendor ID": "VDR1181810",
+    "An Id": "AN11205629031-T",
+    "ACM ID": "ACM_706834",
+    "Registration Status": "Invited",
+    "Qualification Status": "NotQualified",
+    "Integrated to ERP": "NotIntegrated",
+    "Address - Line1": "Noble residency",
+    "Address - Country Code": "IN",
+    "Address - Region Code": "10",
+    "Address - Postal Code": "750076",
+    "Approved": "true",
+    "Main Vendor Type": "true",
+    "questionnaires": [
+      {
+        "questionnaireId": "Doc56983291",
+        "questionnaireTitle": "Internal Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS56983285",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc56983290",
+        "questionnaireTitle": "Supplier Registration Questionnaire",
+        "workspaceType": "REGISTRATION",
+        "workspaceId": "WS56983285",
+        "matrixInfo": {
+          "Status": "Invited",
+          "Region": [],
+          "Category": [],
+          "Business Unit": [],
+          "Material ID": [],
+          "Process Type": []
+        }
+      },
+      {
+        "questionnaireId": "Doc56983718",
+        "questionnaireTitle": "Supplier Request Form",
+        "workspaceType": "SUPPLIER_REQUEST",
+        "workspaceId": "WS56983713"
+      }
+    ],
+    "companyCodes": [
+      {
+        "companyCode": "1010",
+        "paymentMethodsCode": "T",
+        "cashDiscountTermsCode": "NT30",
+        "generalLedgerAccountReferenceID": "21100000"
+      }
+    ],
+    "genericCustomFields": {
+      "supplierGenericCustomField": [
+        {
+          "name": "ZANID",
+          "content": "AN11205629031-T",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "businessPartnerGenericCustomField": [
+        {
+          "name": "Category",
+          "content": "9876544",
+          "active": true,
+          "timeDeleted": 9223372036854775807
+        }
+      ],
+      "companyCodeGenericCustomField": {},
+      "bankInfoGenericCustomField": {}
+    }
+  }
+]
